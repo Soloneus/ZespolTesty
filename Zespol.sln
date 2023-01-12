@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zespol", "Zespol\Zespol.csproj", "{8A71B197-7543-40C8-8A1D-522DF8071876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestZespol", "TestZespol\TestZespol.csproj", "{9097FB3F-E453-4E45-8DCB-65C29F788130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A71B197-7543-40C8-8A1D-522DF8071876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A71B197-7543-40C8-8A1D-522DF8071876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A71B197-7543-40C8-8A1D-522DF8071876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A71B197-7543-40C8-8A1D-522DF8071876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9097FB3F-E453-4E45-8DCB-65C29F788130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9097FB3F-E453-4E45-8DCB-65C29F788130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9097FB3F-E453-4E45-8DCB-65C29F788130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9097FB3F-E453-4E45-8DCB-65C29F788130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39836410-E3C2-4A3E-86BC-FB0E6A0DF7E9}
+	EndGlobalSection
+EndGlobal
